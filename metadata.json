@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of Gazawa Amos sun17",
+  "description": "Super Application Gazawa Amos sun17 - Giecole Soulede Roua Mokolo Extreme Nord Cameroun. Gestion financière, AI, Cloud et Communication.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ]
+}
